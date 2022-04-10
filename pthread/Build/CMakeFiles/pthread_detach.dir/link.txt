@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pthread_detach.dir/pthread_detach.o CMakeFiles/pthread_detach.dir/echo.o  -o pthread_detach  -lpthread 

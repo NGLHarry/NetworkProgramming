@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/epoll_edge-triggered.dir/epoll_edge-triggered.o  -o epoll_edge-triggered 

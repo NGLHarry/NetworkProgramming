@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/NetworkProgramming/EPOLL/epoll01.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+signal.h
+-
+fcntl.h
+-
+errno.h
+-
+sys/socket.h
+-
+sys/epoll.h
+-
+netinet/in.h
+-
+

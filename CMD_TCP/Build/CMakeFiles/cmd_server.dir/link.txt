@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/cmd_server.dir/cmd_server.o  -o cmd_server 

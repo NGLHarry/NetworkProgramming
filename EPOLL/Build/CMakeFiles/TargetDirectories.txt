@@ -1,0 +1,5 @@
+/home/li/NetworkProgramming/EPOLL/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/EPOLL/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/EPOLL/Build/CMakeFiles/epoll_level-triggered.dir
+/home/li/NetworkProgramming/EPOLL/Build/CMakeFiles/epoll_edge-triggered.dir
+/home/li/NetworkProgramming/EPOLL/Build/CMakeFiles/epoll01.dir

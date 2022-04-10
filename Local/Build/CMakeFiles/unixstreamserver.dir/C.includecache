@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/NetworkProgramming/chap-7/unixstreamserver.c
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+netinet/in.h
+-
+unistd.h
+-
+errno.h
+-
+string.h
+-
+signal.h
+-
+

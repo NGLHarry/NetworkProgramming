@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/NetworkProgramming/UDPConnect/udpconnectclient.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+

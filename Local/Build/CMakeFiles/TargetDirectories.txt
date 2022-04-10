@@ -1,0 +1,4 @@
+/home/li/NetworkProgramming/chap-7/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/chap-7/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/chap-7/Build/CMakeFiles/unixstreamserver.dir
+/home/li/NetworkProgramming/chap-7/Build/CMakeFiles/unixstreamclient.dir

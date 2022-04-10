@@ -1,0 +1,4 @@
+/home/li/NetworkProgramming/KeepAlive/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/KeepAlive/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/KeepAlive/Build/CMakeFiles/pingserver.dir
+/home/li/NetworkProgramming/KeepAlive/Build/CMakeFiles/pingclient.dir

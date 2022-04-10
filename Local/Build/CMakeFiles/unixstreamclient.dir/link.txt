@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/unixstreamclient.dir/unixstreamclient.o  -o unixstreamclient 

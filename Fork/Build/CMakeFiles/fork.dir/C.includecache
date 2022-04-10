@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/NetworkProgramming/Fork/fork.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+signal.h
+-
+sys/socket.h
+-
+sys/wait.h
+-
+netinet/in.h
+-
+

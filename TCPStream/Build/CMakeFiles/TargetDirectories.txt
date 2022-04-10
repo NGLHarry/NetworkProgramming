@@ -1,0 +1,4 @@
+/home/li/NetworkProgramming/TCPStream/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/TCPStream/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/TCPStream/Build/CMakeFiles/streamserver.dir
+/home/li/NetworkProgramming/TCPStream/Build/CMakeFiles/streamclient.dir

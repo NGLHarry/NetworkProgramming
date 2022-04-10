@@ -1,0 +1,4 @@
+/home/li/NetworkProgramming/chap-6/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/chap-6/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/chap-6/Build/CMakeFiles/udpserver.dir
+/home/li/NetworkProgramming/chap-6/Build/CMakeFiles/udpclient.dir

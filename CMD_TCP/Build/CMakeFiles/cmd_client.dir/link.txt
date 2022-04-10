@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/cmd_client.dir/cmd_client.o  -o cmd_client 

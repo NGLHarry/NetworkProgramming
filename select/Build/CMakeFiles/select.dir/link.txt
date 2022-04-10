@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/select.dir/select.o  -o select 

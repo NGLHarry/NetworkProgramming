@@ -1,0 +1,3 @@
+/home/li/NetworkProgramming/NonBlocking/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/NonBlocking/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/NonBlocking/Build/CMakeFiles/nonblockingserver.dir

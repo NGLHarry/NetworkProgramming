@@ -1,0 +1,4 @@
+/home/li/NetworkProgramming/UDPConnect/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/UDPConnect/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/UDPConnect/Build/CMakeFiles/udpconnectserver.dir
+/home/li/NetworkProgramming/UDPConnect/Build/CMakeFiles/udpconnectclient.dir

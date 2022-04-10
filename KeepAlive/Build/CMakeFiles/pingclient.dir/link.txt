@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pingclient.dir/pingclient.o  -o pingclient 

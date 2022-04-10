@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/udpclient.dir/udpclient.o  -o udpclient 

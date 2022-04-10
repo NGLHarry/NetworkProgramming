@@ -1,0 +1,3 @@
+/home/li/NetworkProgramming/BatchWrite/Build/CMakeFiles/edit_cache.dir
+/home/li/NetworkProgramming/BatchWrite/Build/CMakeFiles/rebuild_cache.dir
+/home/li/NetworkProgramming/BatchWrite/Build/CMakeFiles/batchwrite.dir

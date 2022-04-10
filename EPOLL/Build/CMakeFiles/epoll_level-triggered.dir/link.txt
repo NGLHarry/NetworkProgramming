@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/epoll_level-triggered.dir/epoll_level-triggered.o  -o epoll_level-triggered 

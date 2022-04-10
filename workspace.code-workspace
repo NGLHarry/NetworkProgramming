@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "signal.h": "c",
+            "stdlib.h": "c",
+            "errno.h": "c",
+            "stdio.h": "c",
+            "pthread_detach": "c"
+        }
+    }
+}

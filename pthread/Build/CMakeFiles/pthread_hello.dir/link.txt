@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pthread_hello.dir/pthread_hello.o  -o pthread_hello  -lpthread 

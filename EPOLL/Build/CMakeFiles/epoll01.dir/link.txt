@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/epoll01.dir/epoll01.o  -o epoll01 
